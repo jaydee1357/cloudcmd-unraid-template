@@ -25,11 +25,6 @@
       <ContainerDir>/UNRAID</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
-	<Volume>
-      <HostDir>/mnt/user/appdata/wallabag/config</HostDir>
-      <ContainerDir>/config</ContainerDir>
-      <Mode>rw</Mode>
-    </Volume>
   </Data>
   <Version></Version>
   <WebUI>http://[IP]:[PORT:80]/</WebUI>
